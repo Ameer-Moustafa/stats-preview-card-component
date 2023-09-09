@@ -34,6 +34,7 @@ img {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   opacity: 0.8;
+  mix-blend-mode: multiply;
 }
 
 .desktop-image {
