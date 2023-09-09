@@ -5,16 +5,19 @@ First attempt at a mobile-first workflow with just vanilla CSS. It was a bit of 
 ## Screenshots
 
 ### Desktop - 1440 width
-![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/b25f43e8-fd9b-4ce9-9ecc-e768dda956e0)
+![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/451338f2-5c7e-4473-8160-28770cfc7310)
+
 
 
 ### Tablet - 834 width
-![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/497bef4a-e3ee-4868-b73e-7ac765f5672c)
+![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/492b9a3a-07a6-4ae9-966d-55dfa8e6a331)
+
 
 
 
 ### Mobile - 375 width
-![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/877752a2-782e-4f65-983b-863b21b0fe0c)
+![image](https://github.com/Ameer-Moustafa/stats-preview-card-component/assets/9211143/dd32468e-ff86-4d49-9b3d-a27d74de1f65)
+
 
 
 
